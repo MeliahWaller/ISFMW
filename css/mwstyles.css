@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+a{
+    color: antiquewhite;
+}
+a:visited{
+ color: burlywood;
+}
+
+a:hover{
+  font-size: 110%;
+}
+
+.header{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    color: black;
+    background-image: url(../assets/img/solidgreige\ gray\ brown.jpg);
+}
+
+.footer{
+    color: antiquewhite;
+    text-align: center;
+    align-items: center;
+    background-color: black;
+}
+
+.list{
+    font-family: fantasy;
+}
